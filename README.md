@@ -2,3 +2,4 @@
 
 * in this repo we will learn How can I take advantage of alias when i upload to github 
   * first step : {{ alias gi="git init" }} after I write this comman in command line i can write gi instade of git init 
+  * second step : {{alias gaa="git add ."}} after I write this command in command line i can write gaa instade of git add .
