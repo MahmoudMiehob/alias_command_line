@@ -15,3 +15,4 @@
   * Sixth step : {{ alias gr="git remote add origin " }} after I write this command in command line i can write gr instade of git remote add origin but you should write remote link after origin
   
   * Seventh step : {{ alias gp="git push -u origin main" }} after I write this command in command line i can write gp instade of git push -u origin main
+  * OR :  {{ alias gp="git push -f origin main" }} after I write this command in command line i can write gp instade of git push -f origin main
