@@ -13,3 +13,5 @@
   * Fifth step : {{ alias gb="git branch -M main" }} after I write this command in command line i can write gb instade of git branch -M main 
 
   * Sixth step : {{ alias gr="git remote add origin " }} after I write this command in command line i can write gr instade of git remote add origin but you should write remote link after origin
+  
+  * Seventh step : {{ alias gp="git push -u origin main" }} after I write this command in command line i can write gp instade of git push -u origin main
