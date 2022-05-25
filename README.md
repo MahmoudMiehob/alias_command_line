@@ -11,4 +11,5 @@
   * Fourt step : {{ alias gm="git commit -m"}} after I write this command in command line i can write gm instade of git commit -m but you should write your_commit in " "
 
   * Fifth step : {{ alias gb="git branch -M main" }} after I write this command in command line i can write gb instade of git branch -M main 
+
   * Sixth step : {{ alias gr="git remote add origin " }} after I write this command in command line i can write gr instade of git remote add origin but you should write remote link after origin
