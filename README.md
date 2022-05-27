@@ -17,5 +17,6 @@
   * Seventh step : {{ alias gp="git push -u origin main" }} after I write this command in command line i can write gp instade of git push -u origin main
 
   * OR :  {{ alias gp="git push -f origin main" }} after I write this command in command line i can write gp instade of git push -f origin main
+ 
   * clone : {{ alias gc="git clone " }} after I write this command in command line i can write gc instade of git clone but you should write remote link after gc
 
